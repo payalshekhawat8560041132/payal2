@@ -1,0 +1,17 @@
+{
+  "name": "payal-node",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "payal2.js",
+  "scripts": {
+    "start": "node payal"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {}
+}
